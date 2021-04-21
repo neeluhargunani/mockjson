@@ -1,11 +1,153 @@
 {
-  "posts": [
+  "restaurant": [
     {
+      "name": "Pizza Huthutz",
+      "email": "pizzahut@test.com",
+      "rating": "4.5",
+      "address": "Mumbai",
       "id": 1,
-      "title": "hello"
+      "product_description": "Pizza Hut offers not just lip-smacking pizzas, but a range of pastas and wings along with garlic breads, breadsticks, cheesesticks and cold and hot beverages. It surely makes Pizza Hut a pizza paradise with its hand-tossed pizzas, pan pizzas, BBQ pizzas and also DIY gluten free pizzas to keep its customers enthralled"
+    },
+    {
+      "name": "McDonald",
+      "email": "mcdonald@test.com",
+      "rating": "3.9",
+      "address": "Delhi",
+      "id": 2,
+      "product_description": "McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant ... fries, they feature chicken products, breakfast items, soft drinks, milkshakes, wraps, and ... On May 4, 1961, McDonald's first filed for a U.S. trademark on the name McDonald's with the description Drive-In Restaurant Services"
+    },
+    {
+      "name": "BBQ Nation",
+      "email": "bbq@test.com",
+      "rating": "4.3",
+      "address": "Goa",
+      "id": 4,
+      "product_description": "Our Barbeque Nation Restaurants typically offer customers at least five vegetarian and five non-vegetarian largely pre-cooked appetisers they can season and barbeque on a grill embedded in their table, an all-you-can-eat main course buffet and a selection of desserts."
+    },
+    {
+      "id": 5,
+      "name": "Haldiram Nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "haldiram@test.com",
+      "product_description": "Haldiram's is an Indian sweets , snacks and restaurant company based out of Delhi and ... Haldiram's products are available in more than 80 countries. ... Haldirams' snacks were refused admittance into USA by the country's Food and Drug ."
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "rating": "4.1",
+      "address": "Delhi",
+      "id": 6,
+      "product_description": "KFC (Kentucky Fried Chicken) is a fast food restaurant chain. This company ... wars for KFC? According to the definition of price wars, there must be a competitor to ... food product, and marketing efforts to raise sales than bitter price wars"
+    },
+    {
+      "name": "sundaybrunch",
+      "email": "sundayebr@test.com",
+      "rating": "4.0",
+      "address": "mumbai",
+      "id": 8,
+      "product_description": "Best Sunday Brunch in Mumbai - Menu, Photos, Ratings and Reviews of Sunday Brunch restaurants, Sunday breakfast restaurants in Mumbai."
+    },
+    {
+      "name": "naturefresh icecream parlour",
+      "email": "ntfrsh@test.com",
+      "rating": "3.9",
+      "address": "banaras",
+      "id": 9,
+      "product_description": "Natural Fresh Ice Cream Nagpur, Sadar; View reviews, menu, contact, location, and more for Natural Fresh Ice Cream Restaurant. ... Dessert Parlor - Ice Cream, Desserts, Beverages ... a free management and analytics dashboard, where you can edit information, track your page views, and more."
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "login": [
+    {
+      "user": " admin@xyz.com",
+      "password": "Admin_007"
+    },
+    {
+      "user": "neelu",
+      "password": "neelu@123"
+    }
+  ],
+  "registration": [
+    {
+      "id": 1,
+      "name": "neelamh",
+      "email": "neeluhargunani@gmail.com",
+      "password": "neelu12345",
+      "address": "mumbai thane kalyan",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 2,
+      "name": "neha",
+      "email": "nehachowdr@gmail.com",
+      "password": "neha1234",
+      "address": "pune sector 20 hinjawadi",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "nishika lulla",
+      "email": "nish@1234",
+      "password": "nis123456",
+      "address": "chandigarh it hub sector 12",
+      "id": 3,
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "ashu",
+      "email": "ashua2gmail.com",
+      "password": "ashu@1234",
+      "address": "goa bagha beach ",
+      "id": 4,
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "fiza",
+      "email": "fiz@email.com",
+      "password": "1234",
+      "address": "mumbai",
+      "id": 7,
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "morbitechsolution",
+      "email": "morbitech@text.com",
+      "password": "morb@1234",
+      "address": "banglore, chase it hub",
+      "id": 8,
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "infotech",
+      "email": "info@test.com",
+      "password": "info@1234",
+      "address": "chennai , bharghav road sector 20",
+      "id": 9,
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "name": "avantika mehta",
+      "email": "avi@gmail.com",
+      "password": "avi12345678",
+      "address": "jhanlandhar , azampur",
+      "id": 10
+    }
+  ],
+  "product": [
+    {
+      "id ": 1,
+      "name ": "MI",
+      "category": "mobile",
+      "price": "1000",
+      "created at": "2020-10-31 00:00:00",
+      "updated at": "2020-10-31 00:00:00"
+    },
+    {
+      "id ": 2,
+      "name ": "Dalkien",
+      "category": "3 star Air Condition ",
+      "price": "30,000",
+      "created at": "2020-12-31 00:00:00",
+      "updated at": "2020-10-31 00:00:00"
+    }
+  ]
 }
